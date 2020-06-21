@@ -33,7 +33,6 @@ There are several steps that you may take to preprocess the text after extractio
 
 ## Multi modal fusion research
 
-- Survey of multimodal fusion methods* - https://ieeexplore.ieee.org/document/8715409
-
+- Survey of multimodal fusion methods* - This survey does an excellent job at explaining the various pros/cons of multimodal fusion approaches https://ieeexplore.ieee.org/document/8715409.
 
 *You may need a subscription to access this paper
