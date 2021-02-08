@@ -4,7 +4,7 @@ The goal of this repository is to create a library of useful resources that may 
 
 ## State of the art:
 The best performing model can be found here: 
-https://paperswithcode.com/task/document-classification
+https://paperswithcode.com/task/document-image-classification
 
 ## Datasets
 The majority of literature uses the Tobacco-3482 and the RVL-CDIP datasets. 
