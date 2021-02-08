@@ -27,11 +27,8 @@ Additionally, I provide the Unlabelled Cyrillic Dataset for unsupervised learnin
  Link: https://arxiv.org/abs/1905.11946
 
 ### Text models
-OCR text for RVL-CDIP and Tobacco 3482 can be downloaded from.
 
-https://github.com/Quicksign/ocrized-text-dataset/releases
-
-Where RVL-CDIP is QS-OCR-Large.tar.gz and Tobacco 3482 is QS-OCR-small.tar.gz
+- DistilBert - https://arxiv.org/abs/1910.01108
 
 #### Preprocessing
 There are several steps that you may take to preprocess the text after extraction
